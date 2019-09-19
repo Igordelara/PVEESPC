@@ -1,0 +1,33 @@
+C:\Users\willi\source\repos\Aps\Aps\bin\Debug\netcoreapp2.1\Aps.deps.json
+C:\Users\willi\source\repos\Aps\Aps\bin\Debug\netcoreapp2.1\Aps.runtimeconfig.json
+C:\Users\willi\source\repos\Aps\Aps\bin\Debug\netcoreapp2.1\Aps.runtimeconfig.dev.json
+C:\Users\willi\source\repos\Aps\Aps\bin\Debug\netcoreapp2.1\Aps.dll
+C:\Users\willi\source\repos\Aps\Aps\bin\Debug\netcoreapp2.1\Aps.pdb
+C:\Users\willi\source\repos\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.csprojAssemblyReference.cache
+C:\Users\willi\source\repos\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.AssemblyInfoInputs.cache
+C:\Users\willi\source\repos\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.AssemblyInfo.cs
+C:\Users\willi\source\repos\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.dll
+C:\Users\willi\source\repos\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.pdb
+C:\Users\IGOR DE LARA\Downloads\Aps (2)\Aps\Aps\bin\Debug\netcoreapp2.1\Aps.deps.json
+C:\Users\IGOR DE LARA\Downloads\Aps (2)\Aps\Aps\bin\Debug\netcoreapp2.1\Aps.runtimeconfig.json
+C:\Users\IGOR DE LARA\Downloads\Aps (2)\Aps\Aps\bin\Debug\netcoreapp2.1\Aps.runtimeconfig.dev.json
+C:\Users\IGOR DE LARA\Downloads\Aps (2)\Aps\Aps\bin\Debug\netcoreapp2.1\Aps.dll
+C:\Users\IGOR DE LARA\Downloads\Aps (2)\Aps\Aps\bin\Debug\netcoreapp2.1\Aps.pdb
+C:\Users\IGOR DE LARA\Downloads\Aps (2)\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.csprojAssemblyReference.cache
+C:\Users\IGOR DE LARA\Downloads\Aps (2)\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.csproj.CoreCompileInputs.cache
+C:\Users\IGOR DE LARA\Downloads\Aps (2)\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.AssemblyInfoInputs.cache
+C:\Users\IGOR DE LARA\Downloads\Aps (2)\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.AssemblyInfo.cs
+C:\Users\IGOR DE LARA\Downloads\Aps (2)\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.dll
+C:\Users\IGOR DE LARA\Downloads\Aps (2)\Aps\Aps\obj\Debug\netcoreapp2.1\Aps.pdb
+C:\Users\IGOR DE LARA\Desktop\Aps Martin\Aps\bin\Debug\netcoreapp2.1\Aps.deps.json
+C:\Users\IGOR DE LARA\Desktop\Aps Martin\Aps\bin\Debug\netcoreapp2.1\Aps.runtimeconfig.json
+C:\Users\IGOR DE LARA\Desktop\Aps Martin\Aps\bin\Debug\netcoreapp2.1\Aps.runtimeconfig.dev.json
+C:\Users\IGOR DE LARA\Desktop\Aps Martin\Aps\bin\Debug\netcoreapp2.1\Aps.dll
+C:\Users\IGOR DE LARA\Desktop\Aps Martin\Aps\bin\Debug\netcoreapp2.1\Aps.pdb
+C:\Users\IGOR DE LARA\Desktop\Aps Martin\Aps\obj\Debug\netcoreapp2.1\Aps.csprojAssemblyReference.cache
+C:\Users\IGOR DE LARA\Desktop\Aps Martin\Aps\obj\Debug\netcoreapp2.1\Aps.csproj.CoreCompileInputs.cache
+C:\Users\IGOR DE LARA\Desktop\Aps Martin\Aps\obj\Debug\netcoreapp2.1\Aps.AssemblyInfoInputs.cache
+C:\Users\IGOR DE LARA\Desktop\Aps Martin\Aps\obj\Debug\netcoreapp2.1\Aps.AssemblyInfo.cs
+C:\Users\IGOR DE LARA\Desktop\Aps Martin\Aps\obj\Debug\netcoreapp2.1\Aps.dll
+C:\Users\IGOR DE LARA\Desktop\Aps Martin\Aps\obj\Debug\netcoreapp2.1\Aps.pdb
